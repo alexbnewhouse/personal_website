@@ -1,0 +1,26 @@
+{
+    "id": "ED11D4B7",
+    "path": "~/personal_website/config/_default/params.yaml",
+    "project_path": "config/_default/params.yaml",
+    "type": "yaml",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1691533604633.0,
+    "source_on_save": false,
+    "relative_order": 8,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "58,19",
+        "scrollLine": "46"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1691533622,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1691533622261,
+    "read_only": false,
+    "read_only_alternatives": []
+}
