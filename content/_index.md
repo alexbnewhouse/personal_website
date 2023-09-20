@@ -47,6 +47,17 @@ sections:
   id: pubs
 - block: collection
   content:
+    filters:
+      exclude_featured: false
+      folders:
+      - event
+    title: Recent Talks
+  design:
+    columns: "2"
+    view: citation
+  id: pubs
+- block: collection
+  content:
     count: 5
     filters:
       author: ""
